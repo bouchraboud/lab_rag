@@ -13,3 +13,6 @@ vectordb/
 # OS files
 .DS_Store
 Thumbs.db
+
+chunks/
+data/
